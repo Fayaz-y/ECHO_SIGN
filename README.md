@@ -111,8 +111,8 @@ A GUI will open with three main features:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Fayaz-y/Women-Safety-Web-dashboard.git
-cd Women-Safety-Web-dashboard
+git clone https://github.com/Fayaz-y/ECHO_SIGN.git
+cd ECHO_SIGN
 ```
 
 ### 2. Open in VS Code
@@ -175,11 +175,6 @@ Contributions are welcome! You can fork the repository and create pull requests 
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## ✨ Acknowledgements
 
@@ -189,14 +184,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to all contributors and testers
 
 ---
+## 👥 Contributors
 
+- [Mohamed Fayaz](https://github.com/Fayaz-y)
+- [Mariyappan](https://github.com/Mariyappanmm)
+- [Santhosh](https://github.com/Santhosh1545)
+
+
+
+---
 ## 📞 Support
 
 If you encounter any issues or have questions, please:
 - Open an issue on GitHub
 - Contact the development team
-- Check the documentation
-
+- 📧 Email: y.mohamedfayaz@gmail.com
 ---
 
 **Made with ❤️ for accessibility and inclusion**
